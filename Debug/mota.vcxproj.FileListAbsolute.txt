@@ -1,0 +1,2 @@
+F:\Mota\Debug\mota.exe
+F:\Mota\Debug\mota.pdb

@@ -1,0 +1,9 @@
+﻿  mota.cpp
+F:\Mota\mota.cpp(159): warning C4715: “yChange”: 不是所有的控件路径都返回值
+F:\Mota\mota.cpp(178): warning C4715: “attackLTG”: 不是所有的控件路径都返回值
+F:\Mota\mota.cpp(183): warning C4715: “attackDJS”: 不是所有的控件路径都返回值
+F:\Mota\mota.cpp(153): warning C4715: “xChange”: 不是所有的控件路径都返回值
+F:\Mota\mota.cpp(188): warning C4715: “attackSSG”: 不是所有的控件路径都返回值
+F:\Mota\mota.cpp(192): warning C4715: “attackWXR”: 不是所有的控件路径都返回值
+F:\Mota\mota.cpp(197): warning C4715: “attackDGZ”: 不是所有的控件路径都返回值
+  mota.vcxproj -> F:\Mota\Debug\mota.exe
